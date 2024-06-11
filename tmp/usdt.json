@@ -2,6 +2,6 @@
   "name": "Test Tether USD",
   "symbol": "USD₮T",
   "decimals": "6",
-  "image": "https://pool.brox.su/i/logoUSDT.png",
+  "image": "https://br0x.github.io/first_contract_front_end/tmp/logoUSDT.png",
   "description": "Tether Token for Tether USD (test)"
 }
