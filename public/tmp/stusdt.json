@@ -2,6 +2,6 @@
   "name": "Staked Test Tether USD",
   "symbol": "stUSD₮T",
   "decimals": "6",
-  "image": "https://pool.brox.su/i/logoStUSDT.png",
+  "image": "https://br0x.github.io/first_contract_front_end/tmp/logoStUSDT.png",
   "description": "Staked Token for Tether USD (test)"
 }
